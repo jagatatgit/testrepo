@@ -4,10 +4,12 @@ x
 
 New line from local
 x
-
-
 x
 New line from rep
 
+<<<<<<< HEAD
 hello bye
+=======
+hello again
+>>>>>>> 0b4479610f79a9e07d5dbdcf3f9690c5cd20cb5d
 
